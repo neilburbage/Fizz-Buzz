@@ -1,4 +1,4 @@
-### Fizz-Buzz
+### Fizz Buzz
 
 **Fizz Buzz is a tiny Python command line game:**
 
