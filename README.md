@@ -7,6 +7,7 @@
 <strong><em>Guess correctly, and you’ll see the magic words "Fizz Buzz".</em></strong><br>
 <strong><em>Otherwise, try again.</em></strong><br>
 </small>
+
 ---
 
 ### Quick start 
