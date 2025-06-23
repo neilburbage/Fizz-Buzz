@@ -4,15 +4,15 @@
 
 <small>
 <strong><em>Enter a number between 1 and 100 that is divisible by 3, 5 or 15.</em></strong><br>
-<strong><em>Guess correctly, and you’ll see the magic words "Fizz Buzz".</em></strong><br>
-<strong><em>Otherwise, try again.</em></strong><br>
+<strong><em>Guess correctly, and you’ll see the magic words "Fizz Buzz"</em></strong><br>
+<strong><em>otherwise, try again.</em></strong><br>
 </small>
 
 ---
 
 ### Quick start 
 **Clone this repo:**  
-```git clone https://github.com/neilburbage/Fizz-Buzz.git```  
+```git clone git@github.com:neilburbage/Fizz-Buzz```  
 **Make sure you've added your SSH key first:**   
 ```https://docs.github.com/en/authentication/connecting-to-github-with-ssh```    
 ```cd Fizz-Buzz```  
